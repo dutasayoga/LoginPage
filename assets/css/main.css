@@ -1,0 +1,61 @@
+body {
+    background-color: rgb(30, 46, 61);
+}
+
+.card {
+    background-color: rgb(39, 52, 68);
+    min-height: 50vh;
+    border-radius: 15px;
+    margin-top: 20vh;
+}
+
+.card-body {
+    margin-left: 50px;
+    margin-right: 50px;
+}
+
+.card-title {
+    text-align: center;
+    font-size: 3rem;
+    font-weight: 700;
+    padding-top: 30px;
+    margin-bottom: 30px;
+    color: rgb(226, 215, 213);
+}
+
+.form-label {
+    color: rgb(93, 102, 110);
+    margin-top: 10px;
+}
+
+.form-control {
+    background-color: rgb(30, 46, 61);
+    color: rgb(240, 240, 240);
+}
+
+p {
+    color: rgb(170, 172, 175);
+}
+
+.btn {
+    background-color: rgb(80, 80, 254);
+    color: azure;
+    border-radius: 15px;
+    font-weight: 500;
+    width: 100px;
+    margin-top: 20px;
+}
+
+.footer {
+    margin-top: 30px;
+}
+
+p>a {
+    color: rgb(80, 80, 254);
+}
+
+#toogler {
+    float: right;
+    color: azure;
+    margin-top: 5px;
+}
